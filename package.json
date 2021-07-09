@@ -1,0 +1,30 @@
+{
+  "name": "jdatepicker",
+  "version": "1.0.0",
+  "description": "A Javascript solar (jalali) datepicker for HTML.",
+  "main": "src/jdatepicker.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/habibmhamadi/jdatepicker.git"
+  },
+  "keywords": [
+    "datepicker",
+    "jalali",
+    "date",
+    "html",
+    "solar",
+    "calendar",
+    "input",
+    "jdate",
+    "jdatepicker"
+  ],
+  "author": "Habib Mhamadi",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/habibmhamadi/jdatepicker/issues"
+  },
+  "homepage": "https://github.com/habibmhamadi/jdatepicker#readme"
+}

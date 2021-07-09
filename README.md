@@ -1,9 +1,8 @@
 # jdatepicker
-=====
 
-A javascript solar (jalali) datepicker for HTML.
+A Javascript solar (jalali) datepicker for HTML.
 
-<img src="https://firebasestorage.googleapis.com/v0/b/flutterapp-5c015.appspot.com/o/demo_images%2Fjdatepicker.png?alt=media&token=e9a39bc0-c611-4173-8b35-c2ac1ec88c00" style="width:60%" alt="jdatepicker demo" />
+<img src="https://firebasestorage.googleapis.com/v0/b/flutterapp-5c015.appspot.com/o/demo_images%2Fjdatepicker.png?alt=media&token=e9a39bc0-c611-4173-8b35-c2ac1ec88c00" style="width:50%" alt="jdatepicker demo" />
 
 ## Installation
 
